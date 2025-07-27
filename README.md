@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Osama Sobhy <br>a Software Engineer<br><br>- 📚 I'm currently learning basics of computer programming</p>
+<p align="left">Hi there, my name is Osama Sobhy, <br> Computer Science student building a solid foundation in programming, problem-solving, and software development. <br> Passionate about learning new technologies and creating real-world project</p>
 
 ###
 
