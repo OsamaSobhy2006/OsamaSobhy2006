@@ -29,7 +29,12 @@
 
 ###
 
-<p align="left">Hi there, my name is Osama Sobhy, <br> Computer Science student building a solid foundation in programming, problem-solving, and software development. <br> Passionate about learning new technologies and creating real-world project</p>
+<p align="left">
+Hi there, my name is Osama Sobhy, <br>
+Computer Science student and aspiring Full-Stack Developer passionate about building modern web applications and solving real-world problems through code. <br>
+Worked with Angular, Node.js, Express, and MongoDB, with a strong interest in backend development, REST APIs, and scalable software architecture. <br>
+Continuously learning new technologies and improving my skills through real-world projects and hands-on development.
+</p>
 
 ###
 
